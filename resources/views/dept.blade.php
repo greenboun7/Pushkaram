@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="breadcrumb-text">
-                        <h1 class="text-center">B.SC (HONS) AGRICLTURE
+                        <h1 class="text-center">B.Sc (HONS) AGRICLTURE
                         </h1>
                         <div class="breadcrumb-bar">
                             <ul class="breadcrumb text-center">

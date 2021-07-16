@@ -224,7 +224,7 @@
                 <div class="col-md-12">
                     <div class="section-title-wrapper">
                         <div class="section-title pb-3">
-                            <h3>B.Sc (Hons) Agriculture</h3>
+                            <h3>B.Sc (Hons.) Agriculture</h3>
                             <!-- <p>There are many variations of passages of Lorem Ipsum</p> -->
                         </div>
                     </div>
@@ -241,7 +241,7 @@
                             </div>
                             <div class="single-item-text">
                                 <h4><a href="#">Horticulture</a></h4>
-                                <span>B.sc (Hons.) Agriculture</span></span>
+                                <span>B.Sc (Hons.) Agriculture</span></span>
                                 <span>ID: <span>391849</span></span>
                             </div>
 
@@ -295,7 +295,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-sm-12 text-center">
-                    <a href="/courses" class="button-default button-large">Browse All Courses <i
+                    <a href="/courses" class="button-default button-large">Browse All Departments <i
                             class="zmdi zmdi-chevron-right"></i></a>
                 </div>
             </div>
@@ -349,7 +349,7 @@
                 <div class="col-md-12">
                     <div class="section-title-wrapper">
                         <div class="section-title">
-                            <h3>OUR EVENTS</h3>
+                            <h3>OUR EVENT PARTNERS</h3>
                             <p>There are many variations of passages</p>
                         </div>
                     </div>
@@ -434,7 +434,7 @@
                 <div class="col-md-12">
                     <div class="section-title-wrapper white">
                         <div class="section-title">
-                            <h3>IMPORTANT FACTS</h3>
+                            <h3>IMPORTANT FACTORS</h3>
                             <!-- <p>There are many variations of passages of Lorem Ipsum</p> -->
                         </div>
                     </div>
@@ -477,7 +477,7 @@
                 <div class="col-md-12">
                     <div class="section-title-wrapper">
                         <div class="section-title">
-                            <h3>OUR Partners</h3>
+                            <h3>OUR EVENT PARTNERS</h3>
                             <p>Some description</p>
                         </div>
                     </div>
